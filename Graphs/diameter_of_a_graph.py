@@ -1,0 +1,1 @@
+# The main goal of this function is to find the diameter of a graph
