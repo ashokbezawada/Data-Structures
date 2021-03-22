@@ -38,4 +38,7 @@ root.right = Node(6)
 root.right.left = Node(5)
 root.right.right = Node(7)
 
+#inorder(root)
+# preorder(root)
 postorder(root)
+
